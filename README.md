@@ -2,6 +2,6 @@
 
 # I added an Index.html 
 
-# I added an css file
+# I added a css file
 
-# I added an js file
+# I added a js file
